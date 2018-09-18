@@ -1,0 +1,3 @@
+/Users/Berenger/Documents/GitKraken/SWJsonConverter/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Berenger/Documents/GitKraken/SWJsonConverter/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Berenger/Documents/GitKraken/SWJsonConverter/src/cmake-build-debug/CMakeFiles/src.dir
